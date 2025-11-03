@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Aslnbxrz\EImzo\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class EImzoCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'e-imzo';
 
     public $description = 'My command';
 
