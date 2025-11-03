@@ -32,14 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Aslnbxrz\\EImzo\\": "src/",
-            "Aslnbxrz\\EImzo\\Database\\Factories\\": "database/factories/"
+            "Aslnbxrz\\EImzo\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Aslnbxrz\\EImzo\\Tests\\": "tests/",
-            "Workbench\\App\\": "workbench/app/"
+            "Aslnbxrz\\EImzo\\Tests\\": "tests/"
         }
     },
     "scripts": {
